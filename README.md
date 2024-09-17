@@ -5,7 +5,7 @@ Um sistema CRUD para gerenciamento de pacientes, médicos e consultas em um ambi
 ## Funcionalidades
 
 - Gerenciamento de pacientes, médicos e consultas
-- Upload de arquivos (fotos de perfil)
+- Upload de arquivos (fotos dos pacientes)
 - Exportar dados para PDF
 
 ## Tecnologias
@@ -22,8 +22,7 @@ Um sistema CRUD para gerenciamento de pacientes, médicos e consultas em um ambi
 - MySQL 5.x ou superior
 - Composer (para instalar dependências)
 - Bibliotecas PHP: `dompdf`
-
-4. Importe o arquivo SQL para o seu banco de dados MySQL.
+- Importe o arquivo SQL para o seu banco de dados MySQL.
 
 ## Uso
 
