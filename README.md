@@ -13,7 +13,7 @@ Um sistema CRUD para gerenciamento de pacientes, médicos e consultas em um ambi
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** PHP
 - **Banco de Dados:** MySQL
-- **PDF Export:** `dompdf`, `fpdf`
+- **PDF Export:** `dompdf`
 
 ## Pré-requisitos
 
